@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nSay HELLO",
-    "HELLO": "Hey, I'm so glad you're here'! Do you want to learn more about bots?\n %[Heck Yeah](postback:TELLHER)\n%[Nah](postback:NAH)",
-    "TELLHER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hey, I'm so glad you're here'! Do you want to learn more about bots?\n %[Heck Yeah](postback)\n%[Nah](postback)",
+    "HECK YEAH": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
